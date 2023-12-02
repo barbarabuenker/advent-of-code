@@ -8,9 +8,6 @@
 # Return: The sum of all of the calibration values.
 
 # 1 - Extract lines out of input file:
-import ftplib
-
-
 input = open("day_one_two_input.txt", "r")
 
 list_of_lines = []
