@@ -1,2 +1,3 @@
 # advent-of-code
-Advent of Code 2023
+
+A repository created for documenting my Advent of Code solutions 🎄
