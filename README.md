@@ -1,3 +1,6 @@
-# advent-of-code
+### advent-of-code
+A repository created for documenting my [Advent of Code](https://adventofcode.com) solutions 🎄
 
-A repository created for documenting my Advent of Code solutions 🎄
+Includes ...
+* **solutions**
+* as well as **input files**.
