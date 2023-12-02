@@ -1,5 +1,11 @@
 # Advent of Code 2023: Day One, Part One
 
+# Given:
+## A file containing consisting of lines of text;
+## each line originally contained a specific calibration value. 
+## On each line, the calibration value can be found by combining the first digit and the last digit (in that order) to form a single two-digit number. 
+# Return: The sum of all of the calibration values.
+
 # 1 - extract lines out of input file:
 input = open("day_one_one_input.txt", "r")
 
